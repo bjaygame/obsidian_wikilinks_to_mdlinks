@@ -6,9 +6,6 @@ wikilinks to mdlinks at the cursor line
 
 use the hotkey Ctrl/cmd + shift + L
 
-
-
-
 **aaa[[BBB#Heading]]cccccc[[DDD#^blockid]]eeeeeee[[FFF|Text]]xxxxxxxx**
 
 **——>**
