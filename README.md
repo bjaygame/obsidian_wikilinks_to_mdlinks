@@ -1,4 +1,4 @@
-# obsidian_wikilinks2mdlinks
+# obsidian_wikilinks_to_mdlinks
 
 Rewritten from agathauy/wikilinks-to-mdlinks-obsidian
 
@@ -10,5 +10,5 @@ use the hotkey Ctrl/cmd + shift + L
 
 **——>**
 
-**aaa`[](BBB.md#Heading)`ccccccx`[](DDD.md#^blockid)`eeeeeee`[Text](FFF.md)`xxxxxxxx**
+**aaa`[](BBB.md#Heading)`cccccc`[](DDD.md#^blockid)`eeeeeee`[Text](FFF.md)`xxxxxxxx**
 
